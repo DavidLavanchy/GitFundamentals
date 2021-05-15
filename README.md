@@ -7,3 +7,5 @@
 - [git commit](./Commands/Commit.md)
 - [git remote](./Commands/Remote.md)
 - [git push](./Command/Push.md)
+- [git pull](../Command/Pull.md)
+- [git status](../Command/Status.md)
